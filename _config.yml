@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
+title: Austin's Quick Test Site
+plugins:
+    - jekyll-relative-links
 baseurl: /pages_test
